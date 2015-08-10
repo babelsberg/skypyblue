@@ -1,6 +1,6 @@
 #skypyblue
 
-[![Build Status](https://travis-ci.org/knub/skypyblue.svg)](https://travis-ci.org/knub/skypyblue)
+[![Build Status](https://travis-ci.org/babelsberg/skypyblue.svg)](https://travis-ci.org/knub/skypyblue)
 
 Implementation of the [SkyBlue](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.50.8935) constraint solver in Python.
 
